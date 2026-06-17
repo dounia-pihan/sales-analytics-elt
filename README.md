@@ -263,4 +263,5 @@ The report includes numerous business indicators designed to support commercial 
 | Revenue Share | Contribution to total revenue |
 | Volume Share | Contribution to total sales volume |
 
+---
 
